@@ -85,3 +85,10 @@ Ejemplo de Obtención de Insights de ECG
 GET /ecgs/1/insights
 
 Este endpoint devuelve el conteo de cruces de cero para cada lead.
+
+## Tests
+
+Para ejecutar los tests del proyecto, usa:
+
+pytest
+
